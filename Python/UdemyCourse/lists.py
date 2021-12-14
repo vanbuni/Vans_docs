@@ -35,4 +35,4 @@ print(states_of_america)
 fruits = ['Strawberries', 'Nectorines', 'Apples', 'Grapes', 'Peaches', 'Cherries', 'Pears']
 vegatables = ['Spinach', 'Kale', 'Tomatoes', 'Celery', 'Potatoes']
 dirty_dozen = [fruits, vegatables]
-print(dirty_dozen)
+print(dirty_dozen[0][0])
